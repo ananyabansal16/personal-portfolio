@@ -1,5 +1,5 @@
 ## Check out my website!
-https://personal-portfolio-theta-gold.vercel.app/
+https://personal-portfolio-ananyabansal16s-projects.vercel.app/
 
 https://github.com/ananyabansal16/personal-portfolio/assets/95698522/893f39e4-f5f5-4b84-9158-e5ddafdac03b
 
